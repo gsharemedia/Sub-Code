@@ -10,41 +10,28 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: C:/Users/GSHARE MEDIA/Downloads/Video/Nonstop DJ 2019 - Track Bay Độc Nhất Vô Nhị - Nhạc Sàn Bay Phòng 2019.mp4
 Video File: C:/Users/GSHARE MEDIA/Downloads/Video/Nonstop DJ 2019 - Track Bay Độc Nhất Vô Nhị - Nhạc Sàn Bay Phòng 2019.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1
-Active Line: 8
-Video Position: 4028
+Active Line: 6
+Video Position: 23576
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: gshare1,Arial,22,&H00FDF703,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,9,10,10,10,1
-Style: gshare2,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,90,1,2,2,6,10,10,10,1
+Style: gshare1,Arial,22,&H00FFE100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,9,10,10,10,1
+Style: gshare2,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,90,1,2,2,6,10,10,10,1
 Style: gshare3,Arial,20,&H000A05D8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.00,0:00:40.00,gshare1,,0,0,0,,SALEMMAX Trân Trọng Giới Thiệu: các bạn đang xem dịch vụ truyền hình IPTV của FPT
-Dialogue: 0,0:00:40.00,0:01:10.00,gshare1,,0,0,0,,Dữ liệu được lấy từ nguồn internet mình không chịu trách nhiệm lý do pháp lý nào
-Dialogue: 0,0:01:10.00,0:01:40.00,gshare1,,0,0,0,,Cảm ơn các bạn đã tin tưởng và ủng hộ Addons *** GHSARE MEDIA ***
-Dialogue: 0,0:01:40.00,0:02:10.00,gshare1,,0,0,0,,Nếu có gì thắc mắc xin các bạn có thể liên hệ địa chỉ email: {\fs26\c&H09E9F2&}(gshare.media@gmail.com)
-Dialogue: 0,0:30:00.00,0:30:40.00,gshare1,,0,0,0,,SALEMMAX Trân Trọng Giới Thiệu: các bạn đang xem dịch vụ truyền hình IPTV của FPT
-Dialogue: 0,0:30:40.00,0:31:10.00,gshare1,,0,0,0,,Dữ liệu được lấy từ nguồn internet mình không chịu trách nhiệm lý do pháp lý nào
-Dialogue: 0,0:31:10.00,0:31:40.00,gshare1,,0,0,0,,Cảm ơn các bạn đã tin tưởng và ủng hộ Addons *** GHSARE MEDIA ***
-Dialogue: 0,0:31:40.00,0:32:10.00,gshare1,,0,0,0,,Nếu có gì thắc mắc xin các bạn có thể liên hệ địa chỉ email: {\fs26\c&H09E9F2&}(gshare.media@gmail.com)
-Dialogue: 0,0:00:10.00,0:02:10.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,0:02:10.00,0:32:40.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,0:32:40.00,1:00:40.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,1:00:40.00,2:00:42.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,2:00:42.00,3:00:44.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,3:00:44.00,4:00:46.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,4:00:46.00,5:00:48.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,5:00:48.00,6:00:50.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,6:00:50.00,7:00:52.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,7:00:52.00,8:00:54.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,8:00:54.00,9:00:56.00,gshare2,,0,0,0,,SALEMMAX
-Dialogue: 0,9:00:56.00,9:40:58.00,gshare2,,0,0,0,,SALEMMAX
+Dialogue: 0,0:00:15.00,0:00:20.00,gshare1,,0,0,0,,SALEMMAX: Xin trân trọng giới thiệu
+Dialogue: 0,0:00:15.00,0:00:20.00,gshare1,,0,0,0,,{\c&H09E9F2&\fs28}ADDONS GSHARE MEDIA
+Dialogue: 0,0:00:20.00,0:00:45.00,gshare1,,0,0,0,,Các bạn đang xem là dịch vụ truyền hình IPTV của FPT xin chúc các bạn xem TV vui vẻ
+Dialogue: 0,0:00:45.00,0:01:20.00,gshare1,,0,0,0,,Dữ liệu được lấy hoàn toàn từ mạng internet mình không chịu bất cứ lý do pháp luật nào
+Dialogue: 0,0:01:20.00,0:01:45.00,gshare1,,0,0,0,,Xin cảm ơn các bạn đã xem và ủng hộ chương trình ADDONS {\c&H00FFFF&\fnArial Black\fs28}*** GSHARE MEDIA ***
+Dialogue: 0,0:01:45.00,0:02:15.00,gshare1,,0,0,0,,Mọi thắc mắc các bạn có thể liên hệ hỗ trợ qua địa chỉ email của mình là : {\c&H04FDFB&\fs36}gshare.media@gmail.com
+Dialogue: 0,0:02:15.00,9:02:17.00,gshare2,,0,0,0,,SALEMMAX

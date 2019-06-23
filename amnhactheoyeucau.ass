@@ -5,23 +5,30 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
 
 [Aegisub Project Garbage]
+Audio File: C:/Users/GSHARE MEDIA/Downloads/Video/Sẽ Mãi Yêu Em - Nguyễn Thắng, Cát Tiên [Vân Sơn 29 - Vân Sơn In Tokyo].mp4
+Video File: C:/Users/GSHARE MEDIA/Downloads/Video/Sẽ Mãi Yêu Em - Nguyễn Thắng, Cát Tiên [Vân Sơn 29 - Vân Sơn In Tokyo].mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
 Active Line: 4
-Video Position: 1583
+Video Position: 1333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: gshare1,Arial,14,&H00FFE100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,9,10,10,10,1
-Style: gshare2,Arial,9,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,90,1,2,2,6,10,10,10,1
+Style: gshare1,Arial,22,&H00FFE100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,9,10,10,10,1
+Style: gshare2,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,90,1,2,2,6,10,10,10,1
 Style: gshare3,Arial,20,&H000A05D8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.00,0:00:10.00,gshare1,,0,0,0,,SALEMMAX; Xin Trân Trọng Giới Thiệu
-Dialogue: 0,0:00:10.00,0:00:25.00,gshare1,,0,0,0,,Chương trình các bạn đang xem là âm nhạc theo yêu cầu của dịch vụ Addons ***GSHARE MEDIA***
-Dialogue: 0,0:00:25.00,0:00:35.00,gshare1,,0,0,0,,Cảm ơn các bạn đã xem và ủng hộ dịch vụ Addons ***GSHARE MEDIA***
-Dialogue: 0,0:00:35.00,0:00:45.00,gshare1,,0,0,0,,Mọi thắc mắc các bạn có thể liên hệ hỗ trợ qua địa chỉ email của mình là : gshare.media@gmail.com
-Dialogue: 0,0:00:45.00,4:00:48.00,gshare2,,0,0,0,,***GSHARE MEDIA***
+Dialogue: 0,0:00:05.00,0:00:10.00,gshare1,,0,0,0,,Salemmax xin trân trọng giới thiệu
+Dialogue: 0,0:00:10.00,0:00:20.00,gshare1,,0,0,0,,Các bạn đang xem là chương trình giải trí âm nhạc theo yêu cầu 
+Dialogue: 0,0:00:20.00,0:00:30.00,gshare1,,0,0,0,,Cảm ơn các bạn đã xem và ủng hộ dịch vụ Addons ***Gshare Media***
+Dialogue: 0,0:00:30.00,0:00:40.00,gshare1,,0,0,0,,Mọi thắc mắc có thể liên hệ với mình qua email: gshare.media@gmail.com
+Dialogue: 0,0:00:40.00,8:00:42.00,gshare2,,0,0,0,,***GSHARE MEDIA***

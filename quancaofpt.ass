@@ -11,20 +11,21 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/GSHARE MEDIA/Downloads/Video/Nonstop DJ 2019 - Track Bay Độc Nhất Vô Nhị - Nhạc Sàn Bay Phòng 2019.mp4
-Video File: C:/Users/GSHARE MEDIA/Downloads/Video/Nonstop DJ 2019 - Track Bay Độc Nhất Vô Nhị - Nhạc Sàn Bay Phòng 2019.mp4
+Audio File: ../Downloads/Video/Nonstop DJ 2019 - Track Bay Độc Nhất Vô Nhị - Nhạc Sàn Bay Phòng 2019.mp4
+Video File: ../Downloads/Video/Nonstop DJ 2019 - Track Bay Độc Nhất Vô Nhị - Nhạc Sàn Bay Phòng 2019.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 6
-Video Position: 23576
+Scroll Position: 5
+Active Line: 12
+Video Position: 7344
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: gshare1,Arial,22,&H00FFE100,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,9,10,10,10,1
-Style: gshare2,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,90,1,2,2,6,10,10,10,1
-Style: gshare3,Arial,20,&H000A05D8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: gshare2,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,90,1,2,2,6,10,10,10,1
+Style: gshare3,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,1,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -33,5 +34,11 @@ Dialogue: 0,0:00:15.00,0:00:20.00,gshare1,,0,0,0,,{\c&H09E9F2&\fs28}ADDONS GSHAR
 Dialogue: 0,0:00:20.00,0:00:45.00,gshare1,,0,0,0,,Các bạn đang xem là dịch vụ truyền hình IPTV của FPT xin chúc các bạn xem TV vui vẻ
 Dialogue: 0,0:00:45.00,0:01:20.00,gshare1,,0,0,0,,Dữ liệu được lấy hoàn toàn từ mạng internet mình không chịu bất cứ lý do pháp luật nào
 Dialogue: 0,0:01:20.00,0:01:45.00,gshare1,,0,0,0,,Xin cảm ơn các bạn đã xem và ủng hộ chương trình ADDONS {\c&H00FFFF&\fnArial Black\fs28}*** GSHARE MEDIA ***
-Dialogue: 0,0:01:45.00,0:02:15.00,gshare1,,0,0,0,,Mọi thắc mắc các bạn có thể liên hệ hỗ trợ qua địa chỉ email của mình là : {\c&H04FDFB&\fs36}gshare.media@gmail.com
-Dialogue: 0,0:02:15.00,9:02:17.00,gshare2,,0,0,0,,SALEMMAX
+Dialogue: 0,0:01:45.00,0:02:15.00,gshare1,,0,0,0,,Mọi thắc mắc các bạn có thể liên hệ hỗ trợ qua địa chỉ email của mình là : {\c&H00EAFF&\fs24}gshare.media@gmail.com
+Dialogue: 0,0:02:15.00,0:30:00.00,gshare2,,0,0,0,,TRUYỀN HÌNH:   {\c&HE61D15&}F {\c&H076AFD&}P {\c&H00FF00&}T
+Dialogue: 0,0:30:00.00,0:30:10.00,gshare1,,0,0,0,,SALEMMAX: Xin trân trọng giới thiệu
+Dialogue: 0,0:30:00.00,0:30:10.00,gshare1,,0,0,0,,{\c&H09E9F2&\fs28}ADDONS GSHARE MEDIA
+Dialogue: 0,0:30:10.00,0:30:25.00,gshare1,,0,0,0,,Các bạn đang xem là dịch vụ truyền hình IPTV của FPT xin chúc các bạn xem TV vui vẻ
+Dialogue: 0,0:30:25.00,0:30:45.00,gshare1,,0,0,0,,Xin cảm ơn các bạn đã xem và ủng hộ chương trình ADDONS {\c&H00FFFF&\fnArial Black\fs28}*** GSHARE MEDIA ***
+Dialogue: 0,0:30:45.00,0:31:05.00,gshare1,,0,0,0,,Mọi thắc mắc các bạn có thể liên hệ hỗ trợ qua địa chỉ email của mình là : {\c&H00EAFF&\fs24}gshare.media@gmail.com
+Dialogue: 0,0:31:05.00,9:31:25.00,gshare2,,0,0,0,,TRUYỀN HÌNH:   {\c&HE61D15&}F {\c&H076AFD&}P {\c&H00FF00&}T
